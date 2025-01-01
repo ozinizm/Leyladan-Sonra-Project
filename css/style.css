@@ -48,7 +48,7 @@ html {
 }
 
 body {
-    color: #666666;
+    color: #ffffff;
     font-size: 14px;
     line-height: 1.80857;
     font-weight: normal;
@@ -79,7 +79,7 @@ h6 {
     padding: 0 0 10px 0;
     font-weight: normal;
     line-height: normal;
-    color: #111111;
+    color: #ffffff;
     margin: 0
 }
 
@@ -121,7 +121,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-    color: #212121;
+    color: #ff0000;
     text-decoration: none!important;
     opacity: 1
 }
@@ -146,7 +146,7 @@ p {
 }
 
 a {
-    color: #222222;
+    color: #000000;
     text-decoration: none;
     outline: none !important;
 }
